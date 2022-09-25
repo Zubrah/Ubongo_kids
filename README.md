@@ -2,7 +2,7 @@
 
 This is a small illustration of ubungo kids app developed by flutter and intergrated with aws-amplify for data storage and fetchings...
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![My animated logo](https://github.com/Zubrah/Ubongo_kids/blob/main/assets/images/ubongo%20logore.png)
 
 
 
@@ -10,7 +10,8 @@ This is a small illustration of ubungo kids app developed by flutter and intergr
 
 
 
-##Important details and Links
+
+## Important details and Links
 
 1. Demo Illustration of UI [Link Here](https://app.flutterflow.io/run/61HRfb0rtcrf4zagGV0D)
 2. Figma Illustration [Link here](https://www.figma.com/proto/3oahy9bQZgl7ZCaSlxmr5j/SE_practical_interview?node-id=0%3A1&scaling=scale-down&page-id=0%3A1)
