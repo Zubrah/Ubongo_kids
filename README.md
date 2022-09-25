@@ -22,7 +22,9 @@ This is a small illustration of ubungo kids app developed by flutter and intergr
 
 
 
-## Getting Started
+
+![My logo](https://github.com/Zubrah/Ubongo_kids/blob/main/assets/images/baraka-side.png) 
+## Getting Started.   
 
 - Clone the repo 
 - perform at flutter pub get command 
