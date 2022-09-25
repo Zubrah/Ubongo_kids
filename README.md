@@ -2,6 +2,9 @@
 
 This is a small illustration of ubungo kids app developed by flutter and intergrated with aws-amplify for data storage and fetchings...
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 
 
 
