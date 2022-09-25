@@ -1,8 +1,29 @@
-# ubongo_kids_practical
+# ubongo_kids_app
 
-A new Flutter project.
+This is a small illustration of ubungo kids app developed by flutter and intergrated with aws-amplify for data storage and fetchings...
+
+
+
+
+
+
+##Important details and Links
+
+1. Demo Illustration of UI [Link Here](https://app.flutterflow.io/run/61HRfb0rtcrf4zagGV0D)
+2. Figma Illustration [Link here](https://www.figma.com/proto/3oahy9bQZgl7ZCaSlxmr5j/SE_practical_interview?node-id=0%3A1&scaling=scale-down&page-id=0%3A1)
+
+
+
+
+
+
 
 ## Getting Started
+
+- Clone the repo 
+- perform at flutter pub get command 
+- Enjoy the small ride with the illustration
+
 
 This project is a starting point for a Flutter application.
 
